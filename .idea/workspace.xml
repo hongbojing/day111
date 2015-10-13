@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6383817a-3d0f-4899-bd10-440a8cba13be" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/builds/development/js/app.js" afterPath="$PROJECT_DIR$/builds/development/js/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/builds/development/index.html" afterPath="$PROJECT_DIR$/builds/development/index.html" />
     </list>
     <ignored path="day111-angular.iws" />
@@ -27,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/builds/development/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.24886878">
-              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.33936653">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -255,8 +254,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/builds/development/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24886878">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.33936653">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
           <folding />
         </state>
       </provider>

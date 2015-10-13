@@ -9,7 +9,13 @@
 <body ng-app="myApp">
 
 <div ng-controller="myController as myCtrl">
-    
+    <p ng-repeat-start="num in myCtrl.nums" class="center">
+        {{num}}
+    </p>
+    <p ng-repeat-end>
+        <span>test</span>
+        <h1>haha</h1>
+    </p>
 </div>
 
 <script src="js/lib/angular/angular.min.js"></script>
